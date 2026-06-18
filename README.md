@@ -2,7 +2,7 @@
 
 Welcome to the official source code repository for the **Namungoona High School** homepage. This project serves as the digital front door for our institution, providing parents, students, and stakeholders with vital school information, leadership details, and core values.
 
-🌐 **Live Website:** [Click here to view the live site](https://your-github-username.github.io/namungoona-high-school/) *(Replace with your actual GitHub Pages link)*
+🌐 **Live Website:** [Click here to view the live site](https://kamyaoscar.github.io/nhs/)
 
 ---
 
@@ -35,6 +35,6 @@ This website is built using clean, lightweight, semantic front-end code with zer
 
 If you want to update text, change images, or add news updates to the website:
 
-1. **Clone or Download the Repository:**
+1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-github-username/namungoona-high-school.git](https://github.com/your-github-username/namungoona-high-school.git)
+   git clone [https://github.com/kamyaoscar/nhs.git](https://github.com/kamyaoscar/nhs.git)
